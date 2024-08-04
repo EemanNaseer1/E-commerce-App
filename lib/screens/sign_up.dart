@@ -22,7 +22,7 @@ class _SignUpState extends State<SignUp> {
           children: [SizedBox(height: 150,),
             Container(
               margin: EdgeInsets.only(right: 70),
-              child: Image.asset("assets/images/logo.jpg"),
+              child: Image.asset("assets/images/Logo.jpg"),
             ),
             Container(
               margin: EdgeInsets.only(top: 10,right: 200),
@@ -83,9 +83,9 @@ class _SignUpState extends State<SignUp> {
            Navigator.push(context, MaterialPageRoute(builder: (context)=> const HomeScreen()));
               }, child: Text("Sign Up",style: TextStyle(color: Colors.white),)),
             ),
-          ],
-        ),
+          ]
       ),
+       )
     );
   }
 }

@@ -23,7 +23,7 @@ class _LoginScreenState extends State<LoginScreen> {
           children: [SizedBox(height: 150,),
             Container(
               margin: EdgeInsets.only(right: 70),
-              child: Image.asset("assets/images/logo.jpg"),
+              child: Image.asset("assets/images/Logo.jpg"),
             ),
             Container(
               margin: EdgeInsets.only(top: 10,right: 200),
