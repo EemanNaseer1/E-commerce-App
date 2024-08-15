@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "103005672908",
+    "project_id": "ecommerceapp-be668",
+    "storage_bucket": "ecommerceapp-be668.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103005672908:android:7a2505de7eefe3bf90f969",
+        "android_client_info": {
+          "package_name": "com.shopsmart.ecommerceapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtHABilXW05KN9zmi7Z8mRodL_V435mVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
